@@ -45,3 +45,16 @@
   background-color: aquamarine;
   padding: 100px;
 }
+
+
+.person{
+
+  background-color: rgb(0, 116, 136);
+border: 3px solid salmon;
+
+padding: 20px;
+margin: 10px;
+border-radius: 30px;
+
+
+}
