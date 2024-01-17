@@ -36,6 +36,9 @@ function App() {
           <p style={singerStyle}>Singer:{singer.name} {singer.job }</p>
         </div>
 
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
        
       </header>
     </div>
